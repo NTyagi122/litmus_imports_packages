@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0">
+  <Operation Name="Rename Refactor" Key="39955557-c4e4-403c-8bd7-beb709a3e7f0" ChangeDateTime="01/27/2020 13:29:35" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Table1].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Table1]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="fundraiser_page_id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6bfe8261-ca91-414b-86f4-fb16dd79705c" ChangeDateTime="01/27/2020 13:33:48" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Table1].[SOURCE]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Table1]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="source" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="51071cc8-3b46-431e-b8d1-65013139656a" ChangeDateTime="01/27/2020 13:34:00" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Table1].[PVKEY]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Table1]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="pvkey" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="06c58a31-0149-4886-b398-16cc9f15694c" ChangeDateTime="01/28/2020 17:21:45" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[report_event_sponsorship_chase].[notes]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[report_event_sponsorship_chase]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="is_fundras" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="12f9bb88-fa12-4a72-be36-f0c1d6ecf2e8" ChangeDateTime="01/28/2020 17:22:12" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[report_event_sponsorship_chase].[is_fundras]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[report_event_sponsorship_chase]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="is_fundraising_partner" />
+  </Operation>
+</Operations>

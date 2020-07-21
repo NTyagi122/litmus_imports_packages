@@ -1,0 +1,25 @@
+﻿CREATE TABLE [dbo].[report_event_sponsorship_chase]
+(
+	[fundraiser_page_id] INT NULL, -- PRIMARY KEY, 
+    [fundraiser_user_id] INT NULL, 
+    [pvkey] INT NULL, 
+    [source] VARCHAR(10) NULL, 
+    [team_name] VARCHAR(50) NULL, 
+    [team_code] INT NULL, 
+    [rectype] VARCHAR(10) NULL, 
+    [first_name] VARCHAR(50) NULL, 
+    [surname] VARCHAR(50) NULL, 
+    [email] VARCHAR(200) NULL, 
+    [phone_no] VARCHAR(60) NULL, 
+    [event_place_ch_date] DATETIME NULL, 
+    [total_paid] MONEY NULL, 
+    [logic1] BIT NULL, 
+    [logic5] BIT NULL, 
+    [code1] VARCHAR(50) NULL, 
+    [code2] VARCHAR(50) NULL, 
+    [is_fundraising_partner] BIT NULL, 
+    [cnkey] INT NULL, 
+    [dept_total] MONEY NULL, 
+    [team_count] INT NULL, 
+    [team_total] MONEY NULL
+)

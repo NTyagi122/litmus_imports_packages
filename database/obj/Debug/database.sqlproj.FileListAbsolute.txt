@@ -1,0 +1,9 @@
+H:\Docs\projects\alzheimers_imports\database\bin\Debug\database.dacpac
+H:\Docs\projects\alzheimers_imports\database\obj\Debug\database.dll
+H:\Docs\projects\alzheimers_imports\database\obj\Debug\database.pdb
+H:\Docs\projects\alzheimers_imports\database\bin\Debug\database.dll
+H:\Docs\projects\alzheimers_imports\database\bin\Debug\database.pdb
+H:\Docs\projects\alzheimers_imports\database\obj\Debug\Model.xml
+H:\Docs\projects\alzheimers_imports\database\obj\Debug\refactor.xml
+H:\Docs\projects\alzheimers_imports\database\obj\Debug\postdeploy.sql
+H:\Docs\projects\alzheimers_imports\database\obj\Debug\predeploy.sql
